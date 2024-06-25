@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ritwik Mukherjee<br> A passionate Software Developer from India.<br>I’m currently working as  a nodejs developer
+Hi 👋, I'm Ritwik Mukherjee<br> A passionate Software Developer from India.<br>I’m currently working as  a Nodejs Developer
 
 
 ## 🌐 Socials:
